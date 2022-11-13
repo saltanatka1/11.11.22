@@ -14,3 +14,9 @@ p{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: darkgreen;
 }
+button{
+  color: antiquewhite;
+  background-color: blue;
+  text-align: center;
+  border-radius: 20%ss;
+}
