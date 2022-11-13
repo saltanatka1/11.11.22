@@ -9,3 +9,8 @@ ol li{
   color: darkviolet;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+p{
+  font-size: 13px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: darkgreen;
+}
