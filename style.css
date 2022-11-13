@@ -20,3 +20,7 @@ button{
   text-align: center;
   border-radius: 20%ss;
 }
+button :hover{
+  color: black;
+  background-color: blueviolet;
+}
